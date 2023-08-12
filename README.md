@@ -4,7 +4,7 @@
   小吴 GitHub 首页</a>
 <h1>
  
-<div align="center"> <img src="[https://profile-counter.glitch.me/yang-tian-hub/count.svg](https://streak-stats.demolab.com?user=1421788142&theme=dark&locale=zh_Hans)" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=1421788142&theme=dark&locale=zh_Hans" /> </div>
  
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 
