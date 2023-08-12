@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://github.com/zhang-bcxb">
-  <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  ✨
   小吴 GitHub 首页</a>
 <h1>
 
