@@ -10,7 +10,7 @@
 
 <div>
  <img src="https://streak-stats.demolab.com?user=1421788142&theme=dark&locale=zh_Hans" />
-<img src="https://github-readme-stats.vercel.app/api?username=1421788142&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=1421788142&show_icons=true&theme=tokyonight" />
 </div>
  
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=1421788142&theme=xcode" /> </div>
