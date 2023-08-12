@@ -1,4 +1,5 @@
-# Vue 3 + TypeScript + Pinia + Vite2 + antDesign 管理系统
+Vue 3 + TypeScript + Pinia + Vite2 + antDesign 管理系统
+- Link：http://121.4.119.52
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小吴同学的github!&center=true&font=Roboto&size=27" /></div>
 
