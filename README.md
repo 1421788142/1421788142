@@ -1,4 +1,4 @@
-<div size="40">
+<div style="font-size:40px;">
   dwadawdwa
 <div>
 
