@@ -8,8 +8,9 @@
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub!&center=true&font=Roboto&size=27" /></div>
 
+<div align="center" style="width:100%;">
 <img src="https://streak-stats.demolab.com?user=1421788142&theme=dark&locale=zh_Hans" />
-
+</div>
 
 
 <div>
