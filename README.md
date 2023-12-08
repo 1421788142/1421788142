@@ -4,7 +4,7 @@
   小吴 GitHub 首页</a>
 <h1>
 
-<div align="center" width="100%"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
+<div align="center" style="width:100%;"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub!&center=true&font=Roboto&size=27" /></div>
 
